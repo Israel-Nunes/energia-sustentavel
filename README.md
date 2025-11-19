@@ -9,11 +9,6 @@ Este projeto, desenvolvido com base na **Opção A (Análise de Dados)**, tem co
 
 A análise de 12 meses de dados simulados identificou um consumo base excessivo fora do horário comercial (desperdício) e ineficiência do sistema de climatização (HVAC) em momentos de baixa ocupação.
 
-| Métrica | Consumo Anual Atual (Simulado) | Redução Proposta (Estimada) |
-| :--- | :--- | :--- |
-| **Consumo Total (kWh)** | 120.000 kWh | **24.000 kWh** |
-| **Economia Financeira (R$)** | R$ 96.000,00 | **R$ 19.200,00** |
-| **Redução de CO₂e** | - | **1.440 kg CO₂e** |
 
 ---
 
