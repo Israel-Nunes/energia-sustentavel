@@ -58,7 +58,3 @@ Este projeto foi desenvolvido pelos seguintes membros:
 * **Israel Karacsony de Camargo Nunes**
 
 ***
-
-O seu `README.md` está pronto e completo!
-
-Seu último requisito é a gravação e upload do vídeo. Gostaria que eu te ajudasse a criar um **roteiro de 3 minutos** para apresentar esses resultados de forma clara e profissional?
