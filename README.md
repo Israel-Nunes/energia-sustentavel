@@ -1,7 +1,7 @@
 # ⚡ Otimização Energética para o Futuro do Trabalho (Análise de Dados)
 
 ## 💡 Introdução
-Este projeto, desenvolvido com base na **Opção A (Análise de Dados)**, tem como objetivo principal analisar padrões de consumo energético em um ambiente de trabalho simulado e propor ajustes operacionais para aumentar a eficiência, reduzir custos e promover a sustentabilidade. A solução se alinha à transição para ambientes de trabalho mais inteligentes e ambientalmente responsáveis, promovendo a **eficiência energética** através de decisões orientadas por dados.
+Este projeto, desenvolvido com base na **(Análise de Dados)**, tem como objetivo principal analisar padrões de consumo energético em um ambiente de trabalho simulado e propor ajustes operacionais para aumentar a eficiência, reduzir custos e promover a sustentabilidade. A solução se alinha à transição para ambientes de trabalho mais inteligentes e ambientalmente responsáveis, promovendo a **eficiência energética** através de decisões orientadas por dados.
 
 ---
 
